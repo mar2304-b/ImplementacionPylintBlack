@@ -2,11 +2,11 @@
 
 ## Descripcion del Proyecto
 
-Este proyecto implementa un sistema CRUD para gestionar dos entidades: **Avión** y **Libro de Cocina**. La aplicación está desplegada y ejecutada utilizando contenedores Docker, lo que facilita su instalación y despliegue en cualquier entorno.
+Este proyecto implementa un sistema CRUD para gestionar dos entidades: **Carro** y **Bicicleta**. La aplicación está desplegada y ejecutada utilizando contenedores Docker, lo que facilita su instalación y despliegue en cualquier entorno.
 
 ## Requisitos Previos
 
-Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
+Asegúrate de tener instalado lo siguiente antes de ejecutar:
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) (para Windows o macOS)
 - [Python 3.8+](https://www.python.org/downloads/)
@@ -18,7 +18,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 Primero clona el repositorio en tu máquina local:
 ```bash
-git clone https://github.com/blandoncj/ImplementacionPylintBlack.git
+git clone https://github.com/mar2304-b/ImplementacionPylintBlack.git
 cd ImplementacionPylintBlack
 ```
 
@@ -45,7 +45,7 @@ docker ps
 
 ### 5. Acceder a la API
 
-El backend de la aplicación estará disponible en http://localhost:8000. Visita esta URL para interactuar con las APIs CRUD de las entidades **Avión** y **Libro de Cocina**
+El backend de la aplicación estará disponible en http://localhost:8000. Visita esta URL para interactuar con las APIs CRUD de las entidades **Carro** y **Bicicleta**
 
 ### 6. Acceder a Adminer (Gestión de Base de Datos)
 
@@ -69,5 +69,5 @@ black .
 
 ## Creadores
 
-- **[Jacobo Blandón Castro](https://github.com/blandoncj)**
-- **[Johan Antonio Peña López](https://github.com/Johan0425)**
+- **[Mariana Gómez Blandón]**
+- **[Mnauela Gómez Blandón]**
